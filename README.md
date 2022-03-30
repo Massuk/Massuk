@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Massuk</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A student in search of greater knowledge...</h3>
 
 - 🔭 I’m currently working on [Halcyon Bot](https://github.com/Massuk/Halcyon-Bot)
 
 - 🌱 I’m currently learning **Python at the basic level and also JavaScript**
 
-- 👨‍💻 All of my projects are available at [link](link)
+- 👨‍💻 All of my projects are available at [Projects website](https://programadorentusiasta.blogspot.com/)
 
-- 📝 I regularly write articles on [my blog link](my blog link)
+- 📝 I regularly write articles on [El blog de un programador entusiasta](https://programadorentusiasta.blogspot.com/)
 
 - 💬 Ask me about **C++, C#, and SQL Server**
 
