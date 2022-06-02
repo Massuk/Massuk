@@ -3,11 +3,7 @@
 
 - 🔭 I’m currently working on [Halcyon Bot](https://github.com/Massuk/Halcyon-Bot)
 
-- 🌱 I’m currently learning **Python at the basic level and also JavaScript**
-
-- 👨‍💻 All of my projects are available at [Projects website](https://programadorentusiasta.blogspot.com/)
-
-- 📝 I regularly write articles on [El blog de un programador entusiasta](https://programadorentusiasta.blogspot.com/)
+- 🌱 I’m currently learning **Python at the basic level and also JavaScript**)
 
 - 💬 Ask me about **C++, C#, and SQL Server**
 
