@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Halcyon Bot](https://github.com/Massuk/Halcyon-Bot)
 
-- 🌱 I’m currently learning **Python at the basic level and also JavaScript**)
+- 🌱 I’m currently learning **Python at the basic level and also JavaScript**
 
 - 💬 Ask me about **C++, C#, and SQL Server**
 
@@ -14,8 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/miguelf.17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="miguelf.17" height="30" width="40" /></a>
-<a href="https://instagram.com/miguelf.___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miguelf.___" height="30" width="40" /></a>
-<a href="https://discord.gg/XauX9axpMB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="XauX9axpMB" height="30" width="40" /></a>
+<a href="https://instagram.com/miguelfl._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miguelfl._" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
