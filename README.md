@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Massuk</h1>
 <h3 align="center">A student in search of greater knowledge...</h3>
 
-- 🔭 I’m currently working on [Halcyon Bot](https://github.com/Massuk/Halcyon-Bot)
+- 🔭 I’m currently working on [Gym Partner Dashboard]
 
 - 🌱 I’m currently learning **Python at the basic level and also JavaScript**
 
