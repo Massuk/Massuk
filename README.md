@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Massuk</h1>
 <h3 align="center">A student in search of greater knowledge...</h3>
 
-- 🔭 I’m currently working on [Gym Partner](https://github.com/Massuk/gym-partner)
+- 🔭 I’m currently working on [WorthBank](https://github.com/Massuk/worthbank-web)
 
-- 🌱 I’m currently learning **Python at the basic level and also JavaScript**
+- 🌱 I’m currently learning **NestJs**
 
-- 💬 Ask me about **C++, C#, and SQL Server**
+- 💬 Ask me about **Angular, C#, JavaScript and TypeScript**
 
 - 📫 How to reach me: **miguelrhcp14@gmail.com**
 
